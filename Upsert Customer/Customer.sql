@@ -1,4 +1,4 @@
-USE [AdventureWorks2019]
+USE [SSIS_Test]
 GO
 
 /****** Object:  Table [dbo].[Customer]    Script Date: 8/20/2020 1:56:45 PM ******/
