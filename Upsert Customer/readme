@@ -1,0 +1,5 @@
+Customer.sql is a file that will create the Customer table in SQL Server.  It is set to create the table in a database called SSIS_Test.
+
+Customer.txt is the data file
+
+The file Upsert Customer Data contains the SSIS project and package
