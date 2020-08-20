@@ -1,4 +1,0 @@
-SSN,FirstName,LastName,Address
-000-00-0002,James,Crosswait-Differding,Lee Street
-000-00-0001,Lee,Crosswait,11 Jimmy St. Forest Lake MN 55025
-000-00-0063,Ruth,Crosswait,12012 Wedgewood Dr. Coon Rapids MN 55433
